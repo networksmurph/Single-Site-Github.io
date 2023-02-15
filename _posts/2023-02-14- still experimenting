@@ -1,0 +1,4 @@
+<!-- Date (published) -->
+<time expr:datetime='data:post.date.iso8601' expr:title='data:post.date.iso8601'>
+  <data:post.date/>
+</time>
